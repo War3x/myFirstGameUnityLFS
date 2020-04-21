@@ -13,9 +13,688 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-04-21T21:36:49.459+03:00
-  initializedAtString: 2020-04-21T21:26:51.824+03:00
+  lastUpdatedAtString: 2020-04-22T02:20:08.362+03:00
+  initializedAtString: 2020-04-22T02:15:44.555+03:00
   log:
+  - commitID: 3e2df17c5facca5e575ddbc206c8bb377ccb0b2b
+    mergeA: 
+    mergeB: 
+    authorName: Ovi
+    authorEmail: luncasorin@gmail.com
+    commitEmail: luncasorin@gmail.com
+    commitName: Ovi
+    summary: ++ Gameplay Update
+    description: Need to rearrange Level01 and make Unity Smoother
+    timeString: 2020-04-22T00:54:15.000+03:00
+    commitTimeString: 2020-04-22T00:54:15.000+03:00
+    changes:
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Level01.unity
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Level01.unity
+      projectPath: Assets\Level01.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Materials\Obstacle Material.mat
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Materials\Obstacle
+        Material.mat
+      projectPath: Assets\Materials\Obstacle Material.mat
+      originalPath: Assets\Obstacle Material.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Materials\Player Material.mat
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Materials\Player
+        Material.mat
+      projectPath: Assets\Materials\Player Material.mat
+      originalPath: Assets\Player Material.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Materials\WhiteTerrain.mat
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Materials\WhiteTerrain.mat
+      projectPath: Assets\Materials\WhiteTerrain.mat
+      originalPath: Assets\WhiteTerrain.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Obstacle.prefab
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Obstacle.prefab
+      projectPath: Assets\Obstacle.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\CameraFollow.cs
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Scripts\CameraFollow.cs
+      projectPath: Assets\Scripts\CameraFollow.cs
+      originalPath: Assets\CameraFollow.cs
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scripts\PlayerCollision.cs
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Scripts\PlayerCollision.cs
+      projectPath: Assets\Scripts\PlayerCollision.cs
+      originalPath: Assets\PlayerCollision.cs
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scripts\PlayerMovement.cs
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Scripts\PlayerMovement.cs
+      projectPath: Assets\Scripts\PlayerMovement.cs
+      originalPath: Assets\PlayerMovement.cs
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\AnnotationManager
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\AnnotationManager
+      projectPath: Library\AnnotationManager
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorSnapSettings.asset
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\EditorSnapSettings.asset
+      projectPath: Library\EditorSnapSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ShaderCache\0\0afa70685a05feffde4df6ed97141a29.bin
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\0\0afa70685a05feffde4df6ed97141a29.bin
+      projectPath: Library\ShaderCache\0\0afa70685a05feffde4df6ed97141a29.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\0\0d63161336566ee9d6ccfa6c268f1edf.bin
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\0\0d63161336566ee9d6ccfa6c268f1edf.bin
+      projectPath: Library\ShaderCache\0\0d63161336566ee9d6ccfa6c268f1edf.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\3\37eae9ec3d149b2db44d4180763ee338.bin
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\3\37eae9ec3d149b2db44d4180763ee338.bin
+      projectPath: Library\ShaderCache\3\37eae9ec3d149b2db44d4180763ee338.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\9\9710a129c3c148ad8fc4b548cb50bf86.bin
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\9\9710a129c3c148ad8fc4b548cb50bf86.bin
+      projectPath: Library\ShaderCache\9\9710a129c3c148ad8fc4b548cb50bf86.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\EditorEncounteredVariants
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\EditorEncounteredVariants
+      projectPath: Library\ShaderCache\EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ShaderCache\a\a16a20c21267d7001e39060c5ac5d176.bin
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\a\a16a20c21267d7001e39060c5ac5d176.bin
+      projectPath: Library\ShaderCache\a\a16a20c21267d7001e39060c5ac5d176.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\a\a3e9773c4c50525a42c413d735d1a4a6.bin
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\a\a3e9773c4c50525a42c413d735d1a4a6.bin
+      projectPath: Library\ShaderCache\a\a3e9773c4c50525a42c413d735d1a4a6.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\b\b317d9d9cd8084618f4f33e8df80b95c.bin
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\b\b317d9d9cd8084618f4f33e8df80b95c.bin
+      projectPath: Library\ShaderCache\b\b317d9d9cd8084618f4f33e8df80b95c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\c\ca9e5906c58403037ca323e4e3aed86f.bin
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\c\ca9e5906c58403037ca323e4e3aed86f.bin
+      projectPath: Library\ShaderCache\c\ca9e5906c58403037ca323e4e3aed86f.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\f\f269831b96dafb1b4da0fc5492760555.bin
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\f\f269831b96dafb1b4da0fc5492760555.bin
+      projectPath: Library\ShaderCache\f\f269831b96dafb1b4da0fc5492760555.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\f\fb51d449283ce42755c3ae3bba82fe9f.bin
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\f\fb51d449283ce42755c3ae3bba82fe9f.bin
+      projectPath: Library\ShaderCache\f\fb51d449283ce42755c3ae3bba82fe9f.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\ca01b1-mainStage.json
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\SceneView\ca01b1-mainStage.json
+      projectPath: Library\StateCache\SceneView\ca01b1-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: ee7f0bbcd742bc37d54f9bd0565debf5ab38f07b
+    mergeA: 0377571804d030e9708a4889067aaa40bbd36fef
+    mergeB: 158971bc28388c3be8d95ff265264a4ee3f74827
+    authorName: Ovi
+    authorEmail: luncasorin@gmail.com
+    commitEmail: luncasorin@gmail.com
+    commitName: Ovi
+    summary: Merge branch 'ToWorkOn' of https://github.com/War3x/myFirstGameUnityLFS
+      into ToWorkOn
+    description: 
+    timeString: 2020-04-22T00:13:26.000+03:00
+    commitTimeString: 2020-04-22T00:13:26.000+03:00
+    changes: []
+  - commitID: 0377571804d030e9708a4889067aaa40bbd36fef
+    mergeA: 
+    mergeB: 
+    authorName: Ovi
+    authorEmail: luncasorin@gmail.com
+    commitEmail: luncasorin@gmail.com
+    commitName: Ovi
+    summary: Added collision interactives.
+    description: 'Am adaugat, in momentul coliziunii, actiuni rezultante cum ar fi:
+      miscare in fata a "Playerului" sa fie oprita.
+
+      Am adaugat un obstacol
+      pentru testarea mesajelor din consola
+
+      Am creat un tag pentru obstacole,
+      pentru o referinta mai usoara.
+
+      ++ material nou.'
+    timeString: 2020-04-22T00:11:29.000+03:00
+    commitTimeString: 2020-04-22T00:11:29.000+03:00
+    changes:
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Level01.unity
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Level01.unity
+      projectPath: Assets\Level01.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Obstacle Material.mat
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Obstacle
+        Material.mat
+      projectPath: Assets\Obstacle Material.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Player Material.mat
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Player Material.mat
+      projectPath: Assets\Player Material.mat
+      originalPath: Assets\PlayerMat.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\PlayerCollision.cs
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\PlayerCollision.cs
+      projectPath: Assets\PlayerCollision.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\PlayerMovement.cs
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\PlayerMovement.cs
+      projectPath: Assets\PlayerMovement.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\ca01b1-mainStage.json
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\SceneView\ca01b1-mainStage.json
+      projectPath: Library\StateCache\SceneView\ca01b1-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MyFirstGame.sln
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\MyFirstGame.sln
+      projectPath: MyFirstGame.sln
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 158971bc28388c3be8d95ff265264a4ee3f74827
+    mergeA: 
+    mergeB: 
+    authorName: Lunca Ovidiu
+    authorEmail: luncasorin@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update README.md
+    description: 
+    timeString: 2020-04-21T23:20:50.000+03:00
+    commitTimeString: 2020-04-21T23:20:50.000+03:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 365e7ac88e629fc2752efb845e470898071863ad
+    mergeA: 
+    mergeB: 
+    authorName: Ovi
+    authorEmail: luncasorin@gmail.com
+    commitEmail: luncasorin@gmail.com
+    commitName: Ovi
+    summary: + Camera follow & Movement keys
+    description: 
+    timeString: 2020-04-21T23:17:48.000+03:00
+    commitTimeString: 2020-04-21T23:17:48.000+03:00
+    changes:
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\CameraFollow.cs
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\CameraFollow.cs
+      projectPath: Assets\CameraFollow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Level01.unity
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Level01.unity
+      projectPath: Assets\Level01.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\PlayerMovement.cs
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\PlayerMovement.cs
+      projectPath: Assets\PlayerMovement.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\ca01b1-mainStage.json
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\SceneView\ca01b1-mainStage.json
+      projectPath: Library\StateCache\SceneView\ca01b1-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 59358e14be21690d7fc4a4159094a1ee74a7301d
+    mergeA: 
+    mergeB: 
+    authorName: War3x
+    authorEmail: luncasorin@gmail.com
+    commitEmail: luncasorin@gmail.com
+    commitName: War3x
+    summary: Added basic programming and movement to "Player".
+    description: C#
+    timeString: 2020-04-21T22:22:40.000+03:00
+    commitTimeString: 2020-04-21T22:22:40.000+03:00
+    changes:
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Level01.unity
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Level01.unity
+      projectPath: Assets\Level01.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\PlayerMovement.cs
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\PlayerMovement.cs
+      projectPath: Assets\PlayerMovement.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Slippery.physicMaterial
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Slippery.physicMaterial
+      projectPath: Assets\Slippery.physicMaterial
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorUserBuildSettings.asset
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\EditorUserBuildSettings.asset
+      projectPath: Library\EditorUserBuildSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\ca01b1-mainStage.json
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\SceneView\ca01b1-mainStage.json
+      projectPath: Library\StateCache\SceneView\ca01b1-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: myFirstGameUnityLFS.sln
+      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\myFirstGameUnityLFS.sln
+      projectPath: myFirstGameUnityLFS.sln
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 37e39bee4b53b2cdae49dc8b129ac38508edd52f
     mergeA: 
     mergeB: 

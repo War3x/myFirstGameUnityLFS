@@ -14,16 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 1
-    y: 51
-    width: 1278
-    height: 988
+    x: 0
+    y: 43
+    width: 2560
+    height: 997
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
-  m_Maximized: 0
+  m_Maximized: 1
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -44,9 +44,9 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1278
-    height: 988
-  m_MinSize: {x: 875, y: 300}
+    width: 2560
+    height: 997
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -65,11 +65,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1278
+    width: 2560
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LastLoadedLayoutName: 
+  m_LastLoadedLayoutName: Wide
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -86,8 +86,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 968
-    width: 1278
+    y: 977
+    width: 2560
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -110,12 +110,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-    width: 1278
-    height: 938
-  m_MinSize: {x: 709, y: 492}
-  m_MaxSize: {x: 18004, y: 14042}
+    width: 2560
+    height: 947
+  m_MinSize: {x: 821, y: 492}
+  m_MaxSize: {x: 18001, y: 14042}
   vertical: 0
-  controlID: 8789
+  controlID: 7098
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,12 +135,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 980
-    height: 938
-  m_MinSize: {x: 433, y: 492}
-  m_MaxSize: {x: 14003, y: 14042}
+    width: 1777
+    height: 947
+  m_MinSize: {x: 431, y: 492}
+  m_MaxSize: {x: 14001, y: 14042}
   vertical: 1
-  controlID: 8790
+  controlID: 7099
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -160,12 +160,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 980
-    height: 655
-  m_MinSize: {x: 401, y: 221}
-  m_MaxSize: {x: 8001, y: 4021}
+    width: 1777
+    height: 656
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 8791
+  controlID: 7100
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -183,13 +183,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 653
-    height: 655
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 15}
+    width: 1140
+    height: 656
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 17}
   m_Panes:
-  - {fileID: 15}
+  - {fileID: 17}
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &9
@@ -207,15 +207,15 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 653
+    x: 1140
     y: 0
-    width: 327
-    height: 655
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 14}
+    width: 637
+    height: 656
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 16}
   m_Panes:
-  - {fileID: 14}
+  - {fileID: 16}
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &10
@@ -236,13 +236,13 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 655
-    width: 980
-    height: 283
-  m_MinSize: {x: 433, y: 271}
-  m_MaxSize: {x: 14003, y: 10021}
+    y: 656
+    width: 1777
+    height: 291
+  m_MinSize: {x: 431, y: 271}
+  m_MaxSize: {x: 14001, y: 10021}
   vertical: 0
-  controlID: 8886
+  controlID: 7061
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -260,13 +260,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 654
-    height: 283
+    width: 1138
+    height: 291
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
-  m_ActualView: {fileID: 16}
+  m_ActualView: {fileID: 18}
   m_Panes:
-  - {fileID: 16}
+  - {fileID: 18}
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &12
@@ -284,16 +284,16 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 654
+    x: 1138
     y: 0
-    width: 326
-    height: 283
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 17}
+    width: 639
+    height: 291
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 19}
   m_Panes:
-  - {fileID: 17}
-  - {fileID: 18}
+  - {fileID: 19}
+  - {fileID: 20}
   m_Selected: 0
   m_LastSelected: 1
 --- !u!114 &13
@@ -306,512 +306,25 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: InspectorWindow
+  m_Name: LightingWindow
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 980
+    x: 1777
     y: 0
-    width: 298
-    height: 938
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 19}
-  m_Panes:
-  - {fileID: 19}
-  - {fileID: 20}
-  - {fileID: 21}
-  m_Selected: 0
-  m_LastSelected: 1
---- !u!114 &14
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Game
-    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 654
-    y: 81
-    width: 325
-    height: 634
-  m_ViewDataDictionary: {fileID: 0}
-  m_SerializedViewNames: []
-  m_SerializedViewValues: []
-  m_SerializedCustomFieldsNames: []
-  m_SerializedCustomFieldsValues: []
-  m_PlayModeViewName: GameView
-  m_ShowGizmos: 0
-  m_TargetDisplay: 0
-  m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 325, y: 613}
-  m_TextureFilterMode: 0
-  m_TextureHideFlags: 61
-  m_RenderIMGUI: 1
-  m_MaximizeOnPlay: 0
-  m_VSyncEnabled: 1
-  m_Gizmos: 0
-  m_Stats: 0
-  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
-  m_ZoomArea:
-    m_HRangeLocked: 0
-    m_VRangeLocked: 0
-    hZoomLockedByDefault: 0
-    vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -162.5
-    m_HBaseRangeMax: 162.5
-    m_VBaseRangeMin: -306.5
-    m_VBaseRangeMax: 306.5
-    m_HAllowExceedBaseRangeMin: 1
-    m_HAllowExceedBaseRangeMax: 1
-    m_VAllowExceedBaseRangeMin: 1
-    m_VAllowExceedBaseRangeMax: 1
-    m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
-    m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
-    m_EnableSliderZoomHorizontal: 0
-    m_EnableSliderZoomVertical: 0
-    m_UniformScale: 1
-    m_UpDirection: 1
-    m_DrawArea:
-      serializedVersion: 2
-      x: 0
-      y: 21
-      width: 325
-      height: 613
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 162.5, y: 306.5}
-    m_MarginLeft: 0
-    m_MarginRight: 0
-    m_MarginTop: 0
-    m_MarginBottom: 0
-    m_LastShownAreaInsideMargins:
-      serializedVersion: 2
-      x: -162.5
-      y: -306.5
-      width: 325
-      height: 613
-    m_MinimalGUI: 1
-  m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 325, y: 634}
-  m_ClearInEditMode: 1
-  m_NoCameraWarning: 1
-  m_LowResolutionForAspectRatios: 01000000000000000000
-  m_XRRenderMode: 0
-  m_RenderTexture: {fileID: 0}
---- !u!114 &15
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Scene
-    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 1
-    y: 81
-    width: 652
-    height: 634
-  m_ViewDataDictionary: {fileID: 0}
-  m_ShowContextualTools: 0
-  m_WindowGUID: ca01b11f7809c3c448337a4d50706728
-  m_Gizmos: 1
-  m_SceneIsLit: 1
-  m_SceneLighting: 1
-  m_2DMode: 0
-  m_isRotationLocked: 0
-  m_PlayAudio: 0
-  m_AudioPlay: 0
-  m_Position:
-    m_Target: {x: -1.5152111, y: -4.9138947, z: 20.096233}
-    speed: 2
-    m_Value: {x: -1.5152111, y: -4.9138947, z: 20.096233}
-  m_RenderMode: 0
-  m_CameraMode:
-    drawMode: 0
-    name: Shaded
-    section: Shading Mode
-  m_ValidateTrueMetals: 0
-  m_DoValidateTrueMetals: 0
-  m_ExposureSliderValue: 0
-  m_ExposureSliderMax: 10
-  m_SceneViewState:
-    showFog: 0
-    showMaterialUpdate: 1
-    showSkybox: 1
-    showFlares: 1
-    showImageEffects: 1
-    showParticleSystems: 1
-  m_Grid:
-    xGrid:
-      m_Fade:
-        m_Target: 0
-        speed: 2
-        m_Value: 1
-      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
-      m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 1, y: 1}
-    yGrid:
-      m_Fade:
-        m_Target: 1
-        speed: 2
-        m_Value: 1
-      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
-      m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 1, y: 1}
-    zGrid:
-      m_Fade:
-        m_Target: 0
-        speed: 2
-        m_Value: 0
-      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
-      m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 0, y: 0}
-    m_ShowGrid: 1
-    m_GridAxis: 1
-    m_gridOpacity: 0.5
-  m_Rotation:
-    m_Target: {x: 0.20374729, y: -0.2508319, z: 0.05409199, w: 0.9448012}
-    speed: 2
-    m_Value: {x: 0.2037468, y: -0.2508313, z: 0.05409186, w: 0.94479895}
-  m_Size:
-    m_Target: 24.95695
-    speed: 2
-    m_Value: 24.95695
-  m_Ortho:
-    m_Target: 0
-    speed: 2
-    m_Value: 0
-  m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.49748743
-    m_SpeedMin: 0.01
-    m_SpeedMax: 2
-    m_EasingEnabled: 1
-    m_EasingDuration: 0.4
-    m_AccelerationEnabled: 1
-    m_FieldOfViewHorizontalOrVertical: 60
-    m_NearClip: 0.03
-    m_FarClip: 10000
-    m_DynamicClip: 1
-    m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
-  m_LastSceneViewOrtho: 0
-  m_ReplacementShader: {fileID: 0}
-  m_ReplacementString: 
-  m_SceneVisActive: 1
-  m_LastLockedObject: {fileID: 0}
-  m_ViewIsLockedToObject: 0
---- !u!114 &16
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
-  m_TitleContent:
-    m_Text: Project
-    m_Image: {fileID: -7501376956915960154, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 1
-    y: 736
-    width: 653
-    height: 262
-  m_ViewDataDictionary: {fileID: 0}
-  m_SearchFilter:
-    m_NameFilter: 
-    m_ClassNames: []
-    m_AssetLabels: []
-    m_AssetBundleNames: []
-    m_VersionControlStates: []
-    m_SoftLockControlStates: []
-    m_ReferencingInstanceIDs: 
-    m_SceneHandles: 
-    m_ShowAllHits: 0
-    m_SkipHidden: 0
-    m_SearchArea: 1
-    m_Folders:
-    - Assets
-  m_ViewMode: 1
-  m_StartGridSize: 64
-  m_LastFolders:
-  - Assets
-  m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS
-  m_LockTracker:
-    m_IsLocked: 0
-  m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 56340000
-    m_LastClickedID: 13398
-    m_ExpandedIDs: 000000005634000000ca9a3b
-    m_RenameOverlay:
-      m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
-      m_EditFieldRect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 0
-        height: 0
-      m_UserData: 0
-      m_IsWaitingForDelay: 0
-      m_IsRenaming: 0
-      m_OriginalEventType: 11
-      m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
-    m_SearchString: 
-    m_CreateAssetUtility:
-      m_EndAction: {fileID: 0}
-      m_InstanceID: 0
-      m_Path: 
-      m_Icon: {fileID: 0}
-      m_ResourceFile: 
-  m_AssetTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 000000005634000000ca9a3b
-    m_RenameOverlay:
-      m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
-      m_EditFieldRect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 0
-        height: 0
-      m_UserData: 0
-      m_IsWaitingForDelay: 0
-      m_IsRenaming: 0
-      m_OriginalEventType: 11
-      m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
-    m_SearchString: 
-    m_CreateAssetUtility:
-      m_EndAction: {fileID: 0}
-      m_InstanceID: 0
-      m_Path: 
-      m_Icon: {fileID: 0}
-      m_ResourceFile: 
-  m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c623000000000000
-    m_RenameOverlay:
-      m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
-      m_EditFieldRect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 0
-        height: 0
-      m_UserData: 0
-      m_IsWaitingForDelay: 0
-      m_IsRenaming: 0
-      m_OriginalEventType: 11
-      m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 8}
-    m_CreateAssetUtility:
-      m_EndAction: {fileID: 0}
-      m_InstanceID: 0
-      m_Path: 
-      m_Icon: {fileID: 0}
-      m_ResourceFile: 
-    m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
-    m_GridSize: 64
-  m_SkipHiddenPackages: 0
-  m_DirectoriesAreaWidth: 115
---- !u!114 &17
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Hierarchy
-    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 655
-    y: 736
-    width: 324
-    height: 262
-  m_ViewDataDictionary: {fileID: 0}
-  m_SceneHierarchy:
-    m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 0c340000
-      m_LastClickedID: 13324
-      m_ExpandedIDs: 70fbffff
-      m_RenameOverlay:
-        m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
-        m_EditFieldRect:
-          serializedVersion: 2
-          x: 0
-          y: 0
-          width: 0
-          height: 0
-        m_UserData: 0
-        m_IsWaitingForDelay: 0
-        m_IsRenaming: 0
-        m_OriginalEventType: 11
-        m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 12}
-      m_SearchString: 
-    m_ExpandedScenes: []
-    m_CurrenRootInstanceID: 0
-    m_LockTracker:
-      m_IsLocked: 0
-    m_CurrentSortingName: TransformSorting
-  m_WindowGUID: 2e0c0c2b117856949980ea6f767908d9
---- !u!114 &18
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Console
-    m_Image: {fileID: 111653112392082826, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 1315
-    y: 734
-    width: 655
-    height: 265
-  m_ViewDataDictionary: {fileID: 0}
---- !u!114 &19
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Inspector
-    m_Image: {fileID: -6905738622615590433, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 981
-    y: 81
-    width: 297
-    height: 917
-  m_ViewDataDictionary: {fileID: 0}
-  m_OpenAddComponentMenu: 0
-  m_ObjectsLockedBeforeSerialization: []
-  m_InstanceIDsLockedBeforeSerialization: 
-  m_LockTracker:
-    m_IsLocked: 0
-  m_PreviewResizer:
-    m_CachedPref: -160
-    m_ControlHash: -371814159
-    m_PrefName: Preview_InspectorPreview
-  m_PreviewWindow: {fileID: 0}
-  m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
---- !u!114 &20
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12079, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
+    width: 783
+    height: 947
   m_MinSize: {x: 390, y: 390}
   m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Lighting
-    m_Image: {fileID: 8394858894532624064, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 888
-    y: 81
-    width: 390
-    height: 917
-  m_ViewDataDictionary: {fileID: 0}
---- !u!114 &21
+  m_ActualView: {fileID: 15}
+  m_Panes:
+  - {fileID: 21}
+  - {fileID: 15}
+  - {fileID: 14}
+  m_Selected: 1
+  m_LastSelected: 2
+--- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -831,21 +344,21 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1972
-    y: 73
-    width: 587
-    height: 926
+    x: 888
+    y: 81
+    width: 390
+    height: 917
   m_ViewDataDictionary: {fileID: 0}
   progressMessageClearTime: -1
   notificationClearTime: -1
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
   currentTrackingStatusHasUpdate: 0
-  currentStatusEntriesHasUpdate: 0
+  currentStatusEntriesHasUpdate: 1
   repositoryProgressHasUpdate: 1
   appManagerProgressHasUpdate: 1
-  changeTab: 3
-  activeTab: 3
+  changeTab: 2
+  activeTab: 2
   initProjectView:
     hasCompletedInitialCheck: 0
     isUserDataPresent: 0
@@ -856,19 +369,8 @@ MonoBehaviour:
     treeLocals:
       IsRemote: 0
       folders:
-        keys:
-        - Local branches
-        values:
-        - path: Local branches
-          label: Local branches
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 0
-          checkState: 0
+        keys: []
+        values: []
       checkedFileNodes:
         keys: []
         values: []
@@ -877,37 +379,7 @@ MonoBehaviour:
       displayRootNode: 1
       isSelectable: 1
       isCheckable: 0
-      nodes:
-      - path: Local branches
-        label: Local branches
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-      - path: master
-        label: master
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-      - path: ToWorkOn
-        label: ToWorkOn
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 1
-        treeIsCheckable: 0
-        checkState: 0
+      nodes: []
       selectedNode:
         path: 
         label: 
@@ -922,30 +394,8 @@ MonoBehaviour:
     treeRemotes:
       IsRemote: 1
       folders:
-        keys:
-        - Remote branches
-        - origin
-        values:
-        - path: Remote branches
-          label: Remote branches
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 0
-          checkState: 0
-        - path: origin
-          label: origin
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 0
-          checkState: 0
+        keys: []
+        values: []
       checkedFileNodes:
         keys: []
         values: []
@@ -954,41 +404,11 @@ MonoBehaviour:
       displayRootNode: 1
       isSelectable: 1
       isCheckable: 0
-      nodes:
-      - path: Remote branches
-        label: Remote branches
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-      - path: origin
-        label: origin
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
-      - path: origin/master
-        label: master
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
+      nodes: []
       selectedNode:
-        path: origin/master
-        label: master
-        level: 2
+        path: 
+        label: 
+        level: 0
         isFolder: 0
         isContainer: 0
         isCollapsed: 0
@@ -999,1732 +419,52 @@ MonoBehaviour:
     mode: 0
     newBranchName: 
     scroll: {x: 0, y: 0}
-    disableDelete: 1
-    disableCreate: 1
+    disableDelete: 0
+    disableCreate: 0
     lastLocalAndRemoteBranchListChangedEvent:
-      updatedTimeString: 2020-04-21T21:36:46.183+03:00
-      cacheType: 2
+      updatedTimeString: 
+      cacheType: 0
     lastCurrentBranchAndRemoteChange:
-      updatedTimeString: 2020-04-21T21:37:15.223+03:00
-      cacheType: 1
+      updatedTimeString: 
+      cacheType: 0
     currentBranch:
-      name: ToWorkOn
+      name: 
       tracking: 
     currentRemote:
-      name: origin
-      url: https://github.com/War3x/myFirstGameUnityLFS.git
+      name: 
+      url: 
       login: 
       user: 
       host: 
       function: 0
       token: 
-    localBranches:
-    - name: master
-      tracking: origin/master
-    - name: ToWorkOn
-      tracking: 
-    remoteBranches:
-    - name: origin/master
-      tracking: '[None]'
+    localBranches: []
+    remoteBranches: []
   changesView:
-    currentBranchHasUpdate: 1
-    currentStatusEntriesHasUpdate: 1
-    currentLocksHasUpdate: 1
+    currentBranchHasUpdate: 0
+    currentStatusEntriesHasUpdate: 0
+    currentLocksHasUpdate: 0
     commitBody: 
     commitMessage: 
-    currentBranch: '[ToWorkOn]'
+    currentBranch: '[unknown]'
     treeScroll: {x: 0, y: 0}
     treeChanges:
       assets:
-        keys:
-        - 00000000000000001000000000000000
-        - 7dc18996eb0391a40a06a932b18242fe
-        - 8ffd67baac5776b4aadea84be61e57d6
-        - 203f9a67119b91449889b40eea7c32b9
-        - 7514662e1906bd14fa1e82759373517b
-        - 85c286472bcce764e8374b58bd0077c6
-        - 00000000000000003000000000000000
-        values:
-        - path: Assets
-          label: Assets
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Assets\Level01.unity
-          label: Level01.unity
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Level01.unity
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Level01.unity
-            projectPath: Assets\Level01.unity
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Assets\Obstacle Material.mat
-          label: Obstacle Material.mat
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Obstacle Material.mat
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Obstacle
-              Material.mat
-            projectPath: Assets\Obstacle Material.mat
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Assets\Player Material.mat
-          label: Player Material.mat
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Player Material.mat
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Player
-              Material.mat
-            projectPath: Assets\Player Material.mat
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Assets\PlayerCollision.cs
-          label: PlayerCollision.cs
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\PlayerCollision.cs
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\PlayerCollision.cs
-            projectPath: Assets\PlayerCollision.cs
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Assets\PlayerMovement.cs
-          label: PlayerMovement.cs
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\PlayerMovement.cs
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\PlayerMovement.cs
-            projectPath: Assets\PlayerMovement.cs
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: ProjectSettings\TagManager.asset
-          label: TagManager.asset
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: ProjectSettings\TagManager.asset
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\ProjectSettings\TagManager.asset
-            projectPath: ProjectSettings\TagManager.asset
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
+        keys: []
+        values: []
       folders:
-        keys:
-        - Assets
-        - Library
-        - Library\gfu
-        - Library\gfu\cache
-        - Library\ScriptAssemblies
-        - Library\StateCache
-        - Library\StateCache\Hierarchy
-        - Library\StateCache\SceneView
-        - ProjectSettings
-        - Temp
-        - Temp\__Backupscenes
-        values:
-        - path: Assets
-          label: Assets
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library
-          label: Library
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\gfu
-          label: gfu
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\gfu\cache
-          label: cache
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\ScriptAssemblies
-          label: ScriptAssemblies
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\StateCache
-          label: StateCache
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\StateCache\Hierarchy
-          label: Hierarchy
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Library\StateCache\SceneView
-          label: SceneView
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: ProjectSettings
-          label: ProjectSettings
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Temp
-          label: Temp
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: Temp\__Backupscenes
-          label: __Backupscenes
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
+        keys: []
+        values: []
       checkedFileNodes:
-        keys:
-        - Assembly-CSharp.csproj
-        - Assets\Level01.unity
-        - Assets\Obstacle Material.mat
-        - Assets\Player Material.mat
-        - Assets\PlayerCollision.cs
-        - Assets\PlayerMat.mat
-        - Assets\PlayerMovement.cs
-        - Library\ArtifactDB
-        - Library\EditorInstance.json
-        - Library\gfu\cache\gitlocks.yaml
-        - Library\gfu\cache\gitstatusentries.yaml
-        - Library\gfu\cache\gittrackingstatus.yaml
-        - Library\gfu\cache\repoinfo.yaml
-        - Library\InspectorExpandedItems.asset
-        - Library\ScriptAssemblies\Assembly-CSharp.dll
-        - Library\SourceAssetDB
-        - Library\StateCache\Hierarchy\2e0c0c-mainStage.json
-        - Library\StateCache\SceneView\ca01b1-mainStage.json
-        - MyFirstGame.sln
-        - ProjectSettings\TagManager.asset
-        - Temp\__Backupscenes\0.backup
-        - Temp\UnityLockfile
-        - Temp\UnityTempFile-16058a307de856e46827d4366f8ae63c
-        - Temp\UnityTempFile-2e95701698df940488183f0640fbec48
-        - Temp\UnityTempFile-6834e0ae53e449344aca629a2bc71640
-        - Temp\UnityTempFile-a0c61c1d3e064c84db5875b88943cb67
-        - Temp\UnityTempFile-a9077f2ff05797444aab52ceba5f3f47
-        - Temp\UnityTempFile-b85710970cd218d4fbcb80f1d7d92cc9
-        - Temp\UnityTempFile-bd4ae1f9d7644a94a80ce84e8df28592
-        - Temp\UnityTempFile-d46e1c0c52f936749b6cfe87944035c7
-        values:
-        - path: Assembly-CSharp.csproj
-          label: Assembly-CSharp.csproj
-          level: 0
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assembly-CSharp.csproj
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assembly-CSharp.csproj
-            projectPath: Assembly-CSharp.csproj
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Assets\Level01.unity
-          label: Level01.unity
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Level01.unity
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Level01.unity
-            projectPath: Assets\Level01.unity
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Assets\Obstacle Material.mat
-          label: Obstacle Material.mat
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Obstacle Material.mat
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Obstacle
-              Material.mat
-            projectPath: Assets\Obstacle Material.mat
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Assets\Player Material.mat
-          label: Player Material.mat
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\Player Material.mat
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Player
-              Material.mat
-            projectPath: Assets\Player Material.mat
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Assets\PlayerCollision.cs
-          label: PlayerCollision.cs
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\PlayerCollision.cs
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\PlayerCollision.cs
-            projectPath: Assets\PlayerCollision.cs
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Assets\PlayerMat.mat
-          label: PlayerMat.mat
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\PlayerMat.mat
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\PlayerMat.mat
-            projectPath: Assets\PlayerMat.mat
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 5
-        - path: Assets\PlayerMovement.cs
-          label: PlayerMovement.cs
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Assets\PlayerMovement.cs
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\PlayerMovement.cs
-            projectPath: Assets\PlayerMovement.cs
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\ArtifactDB
-          label: ArtifactDB
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\ArtifactDB
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ArtifactDB
-            projectPath: Library\ArtifactDB
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\EditorInstance.json
-          label: EditorInstance.json
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\EditorInstance.json
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\EditorInstance.json
-            projectPath: Library\EditorInstance.json
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Library\gfu\cache\gitlocks.yaml
-          label: gitlocks.yaml
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\gfu\cache\gitlocks.yaml
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gitlocks.yaml
-            projectPath: Library\gfu\cache\gitlocks.yaml
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\gfu\cache\gitstatusentries.yaml
-          label: gitstatusentries.yaml
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\gfu\cache\gitstatusentries.yaml
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gitstatusentries.yaml
-            projectPath: Library\gfu\cache\gitstatusentries.yaml
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\gfu\cache\gittrackingstatus.yaml
-          label: gittrackingstatus.yaml
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\gfu\cache\gittrackingstatus.yaml
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gittrackingstatus.yaml
-            projectPath: Library\gfu\cache\gittrackingstatus.yaml
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\gfu\cache\repoinfo.yaml
-          label: repoinfo.yaml
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\gfu\cache\repoinfo.yaml
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\repoinfo.yaml
-            projectPath: Library\gfu\cache\repoinfo.yaml
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\InspectorExpandedItems.asset
-          label: InspectorExpandedItems.asset
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\InspectorExpandedItems.asset
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\InspectorExpandedItems.asset
-            projectPath: Library\InspectorExpandedItems.asset
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-          label: Assembly-CSharp.dll
-          level: 2
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\ScriptAssemblies\Assembly-CSharp.dll
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\Assembly-CSharp.dll
-            projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\SourceAssetDB
-          label: SourceAssetDB
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\SourceAssetDB
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\SourceAssetDB
-            projectPath: Library\SourceAssetDB
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\StateCache\Hierarchy\2e0c0c-mainStage.json
-          label: 2e0c0c-mainStage.json
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\StateCache\Hierarchy\2e0c0c-mainStage.json
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\Hierarchy\2e0c0c-mainStage.json
-            projectPath: Library\StateCache\Hierarchy\2e0c0c-mainStage.json
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Library\StateCache\SceneView\ca01b1-mainStage.json
-          label: ca01b1-mainStage.json
-          level: 3
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Library\StateCache\SceneView\ca01b1-mainStage.json
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\SceneView\ca01b1-mainStage.json
-            projectPath: Library\StateCache\SceneView\ca01b1-mainStage.json
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: MyFirstGame.sln
-          label: MyFirstGame.sln
-          level: 0
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: MyFirstGame.sln
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\MyFirstGame.sln
-            projectPath: MyFirstGame.sln
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 5
-        - path: ProjectSettings\TagManager.asset
-          label: TagManager.asset
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: ProjectSettings\TagManager.asset
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\ProjectSettings\TagManager.asset
-            projectPath: ProjectSettings\TagManager.asset
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 3
-        - path: Temp\__Backupscenes\0.backup
-          label: 0.backup
-          level: 2
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Temp\__Backupscenes\0.backup
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\__Backupscenes\0.backup
-            projectPath: Temp\__Backupscenes\0.backup
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Temp\UnityLockfile
-          label: UnityLockfile
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Temp\UnityLockfile
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityLockfile
-            projectPath: Temp\UnityLockfile
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Temp\UnityTempFile-16058a307de856e46827d4366f8ae63c
-          label: UnityTempFile-16058a307de856e46827d4366f8ae63c
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Temp\UnityTempFile-16058a307de856e46827d4366f8ae63c
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-16058a307de856e46827d4366f8ae63c
-            projectPath: Temp\UnityTempFile-16058a307de856e46827d4366f8ae63c
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Temp\UnityTempFile-2e95701698df940488183f0640fbec48
-          label: UnityTempFile-2e95701698df940488183f0640fbec48
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Temp\UnityTempFile-2e95701698df940488183f0640fbec48
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-2e95701698df940488183f0640fbec48
-            projectPath: Temp\UnityTempFile-2e95701698df940488183f0640fbec48
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Temp\UnityTempFile-6834e0ae53e449344aca629a2bc71640
-          label: UnityTempFile-6834e0ae53e449344aca629a2bc71640
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Temp\UnityTempFile-6834e0ae53e449344aca629a2bc71640
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-6834e0ae53e449344aca629a2bc71640
-            projectPath: Temp\UnityTempFile-6834e0ae53e449344aca629a2bc71640
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Temp\UnityTempFile-a0c61c1d3e064c84db5875b88943cb67
-          label: UnityTempFile-a0c61c1d3e064c84db5875b88943cb67
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Temp\UnityTempFile-a0c61c1d3e064c84db5875b88943cb67
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-a0c61c1d3e064c84db5875b88943cb67
-            projectPath: Temp\UnityTempFile-a0c61c1d3e064c84db5875b88943cb67
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Temp\UnityTempFile-a9077f2ff05797444aab52ceba5f3f47
-          label: UnityTempFile-a9077f2ff05797444aab52ceba5f3f47
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Temp\UnityTempFile-a9077f2ff05797444aab52ceba5f3f47
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-a9077f2ff05797444aab52ceba5f3f47
-            projectPath: Temp\UnityTempFile-a9077f2ff05797444aab52ceba5f3f47
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Temp\UnityTempFile-b85710970cd218d4fbcb80f1d7d92cc9
-          label: UnityTempFile-b85710970cd218d4fbcb80f1d7d92cc9
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Temp\UnityTempFile-b85710970cd218d4fbcb80f1d7d92cc9
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-b85710970cd218d4fbcb80f1d7d92cc9
-            projectPath: Temp\UnityTempFile-b85710970cd218d4fbcb80f1d7d92cc9
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Temp\UnityTempFile-bd4ae1f9d7644a94a80ce84e8df28592
-          label: UnityTempFile-bd4ae1f9d7644a94a80ce84e8df28592
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Temp\UnityTempFile-bd4ae1f9d7644a94a80ce84e8df28592
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-bd4ae1f9d7644a94a80ce84e8df28592
-            projectPath: Temp\UnityTempFile-bd4ae1f9d7644a94a80ce84e8df28592
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
-        - path: Temp\UnityTempFile-d46e1c0c52f936749b6cfe87944035c7
-          label: UnityTempFile-d46e1c0c52f936749b6cfe87944035c7
-          level: 1
-          isFolder: 0
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 1
-          isLocked: 0
-          gitStatusEntry:
-            path: Temp\UnityTempFile-d46e1c0c52f936749b6cfe87944035c7
-            fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-d46e1c0c52f936749b6cfe87944035c7
-            projectPath: Temp\UnityTempFile-d46e1c0c52f936749b6cfe87944035c7
-            originalPath: 
-            indexStatus: 1
-            workTreeStatus: 1
+        keys: []
+        values: []
       title: 
-      pathSeparator: \
+      pathSeparator: /
       displayRootNode: 0
       isSelectable: 1
       isCheckable: 1
       isUsingGlobalSelection: 1
-      nodes:
-      - path: 
-        label: 
-        level: -1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Assembly-CSharp.csproj
-        label: Assembly-CSharp.csproj
-        level: 0
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assembly-CSharp.csproj
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assembly-CSharp.csproj
-          projectPath: Assembly-CSharp.csproj
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Assets
-        label: Assets
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Assets\Level01.unity
-        label: Level01.unity
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Level01.unity
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Level01.unity
-          projectPath: Assets\Level01.unity
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Assets\Obstacle Material.mat
-        label: Obstacle Material.mat
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Obstacle Material.mat
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Obstacle
-            Material.mat
-          projectPath: Assets\Obstacle Material.mat
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\Player Material.mat
-        label: Player Material.mat
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\Player Material.mat
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Player
-            Material.mat
-          projectPath: Assets\Player Material.mat
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\PlayerCollision.cs
-        label: PlayerCollision.cs
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\PlayerCollision.cs
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\PlayerCollision.cs
-          projectPath: Assets\PlayerCollision.cs
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Assets\PlayerMat.mat
-        label: PlayerMat.mat
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\PlayerMat.mat
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\PlayerMat.mat
-          projectPath: Assets\PlayerMat.mat
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 5
-      - path: Assets\PlayerMovement.cs
-        label: PlayerMovement.cs
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Assets\PlayerMovement.cs
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\PlayerMovement.cs
-          projectPath: Assets\PlayerMovement.cs
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library
-        label: Library
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\ArtifactDB
-        label: ArtifactDB
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\ArtifactDB
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ArtifactDB
-          projectPath: Library\ArtifactDB
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\EditorInstance.json
-        label: EditorInstance.json
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\EditorInstance.json
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\EditorInstance.json
-          projectPath: Library\EditorInstance.json
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Library\gfu
-        label: gfu
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\gfu\cache
-        label: cache
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\gfu\cache\gitlocks.yaml
-        label: gitlocks.yaml
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\gfu\cache\gitlocks.yaml
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gitlocks.yaml
-          projectPath: Library\gfu\cache\gitlocks.yaml
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\gfu\cache\gitstatusentries.yaml
-        label: gitstatusentries.yaml
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\gfu\cache\gitstatusentries.yaml
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gitstatusentries.yaml
-          projectPath: Library\gfu\cache\gitstatusentries.yaml
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\gfu\cache\gittrackingstatus.yaml
-        label: gittrackingstatus.yaml
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\gfu\cache\gittrackingstatus.yaml
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gittrackingstatus.yaml
-          projectPath: Library\gfu\cache\gittrackingstatus.yaml
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\gfu\cache\repoinfo.yaml
-        label: repoinfo.yaml
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\gfu\cache\repoinfo.yaml
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\repoinfo.yaml
-          projectPath: Library\gfu\cache\repoinfo.yaml
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\InspectorExpandedItems.asset
-        label: InspectorExpandedItems.asset
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\InspectorExpandedItems.asset
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\InspectorExpandedItems.asset
-          projectPath: Library\InspectorExpandedItems.asset
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\ScriptAssemblies
-        label: ScriptAssemblies
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-        label: Assembly-CSharp.dll
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\ScriptAssemblies\Assembly-CSharp.dll
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\Assembly-CSharp.dll
-          projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\SourceAssetDB
-        label: SourceAssetDB
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\SourceAssetDB
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\SourceAssetDB
-          projectPath: Library\SourceAssetDB
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\StateCache
-        label: StateCache
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\StateCache\Hierarchy
-        label: Hierarchy
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\StateCache\Hierarchy\2e0c0c-mainStage.json
-        label: 2e0c0c-mainStage.json
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\StateCache\Hierarchy\2e0c0c-mainStage.json
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\Hierarchy\2e0c0c-mainStage.json
-          projectPath: Library\StateCache\Hierarchy\2e0c0c-mainStage.json
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Library\StateCache\SceneView
-        label: SceneView
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Library\StateCache\SceneView\ca01b1-mainStage.json
-        label: ca01b1-mainStage.json
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Library\StateCache\SceneView\ca01b1-mainStage.json
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\SceneView\ca01b1-mainStage.json
-          projectPath: Library\StateCache\SceneView\ca01b1-mainStage.json
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: MyFirstGame.sln
-        label: MyFirstGame.sln
-        level: 0
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: MyFirstGame.sln
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\MyFirstGame.sln
-          projectPath: MyFirstGame.sln
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 5
-      - path: ProjectSettings
-        label: ProjectSettings
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: ProjectSettings\TagManager.asset
-        label: TagManager.asset
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: ProjectSettings\TagManager.asset
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\ProjectSettings\TagManager.asset
-          projectPath: ProjectSettings\TagManager.asset
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: Temp
-        label: Temp
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Temp\__Backupscenes
-        label: __Backupscenes
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: Temp\__Backupscenes\0.backup
-        label: 0.backup
-        level: 2
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\__Backupscenes\0.backup
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\__Backupscenes\0.backup
-          projectPath: Temp\__Backupscenes\0.backup
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityLockfile
-        label: UnityLockfile
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityLockfile
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityLockfile
-          projectPath: Temp\UnityLockfile
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-16058a307de856e46827d4366f8ae63c
-        label: UnityTempFile-16058a307de856e46827d4366f8ae63c
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-16058a307de856e46827d4366f8ae63c
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-16058a307de856e46827d4366f8ae63c
-          projectPath: Temp\UnityTempFile-16058a307de856e46827d4366f8ae63c
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-2e95701698df940488183f0640fbec48
-        label: UnityTempFile-2e95701698df940488183f0640fbec48
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-2e95701698df940488183f0640fbec48
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-2e95701698df940488183f0640fbec48
-          projectPath: Temp\UnityTempFile-2e95701698df940488183f0640fbec48
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-6834e0ae53e449344aca629a2bc71640
-        label: UnityTempFile-6834e0ae53e449344aca629a2bc71640
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-6834e0ae53e449344aca629a2bc71640
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-6834e0ae53e449344aca629a2bc71640
-          projectPath: Temp\UnityTempFile-6834e0ae53e449344aca629a2bc71640
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-a0c61c1d3e064c84db5875b88943cb67
-        label: UnityTempFile-a0c61c1d3e064c84db5875b88943cb67
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-a0c61c1d3e064c84db5875b88943cb67
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-a0c61c1d3e064c84db5875b88943cb67
-          projectPath: Temp\UnityTempFile-a0c61c1d3e064c84db5875b88943cb67
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-a9077f2ff05797444aab52ceba5f3f47
-        label: UnityTempFile-a9077f2ff05797444aab52ceba5f3f47
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-a9077f2ff05797444aab52ceba5f3f47
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-a9077f2ff05797444aab52ceba5f3f47
-          projectPath: Temp\UnityTempFile-a9077f2ff05797444aab52ceba5f3f47
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-b85710970cd218d4fbcb80f1d7d92cc9
-        label: UnityTempFile-b85710970cd218d4fbcb80f1d7d92cc9
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-b85710970cd218d4fbcb80f1d7d92cc9
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-b85710970cd218d4fbcb80f1d7d92cc9
-          projectPath: Temp\UnityTempFile-b85710970cd218d4fbcb80f1d7d92cc9
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-bd4ae1f9d7644a94a80ce84e8df28592
-        label: UnityTempFile-bd4ae1f9d7644a94a80ce84e8df28592
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-bd4ae1f9d7644a94a80ce84e8df28592
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-bd4ae1f9d7644a94a80ce84e8df28592
-          projectPath: Temp\UnityTempFile-bd4ae1f9d7644a94a80ce84e8df28592
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
-      - path: Temp\UnityTempFile-d46e1c0c52f936749b6cfe87944035c7
-        label: UnityTempFile-d46e1c0c52f936749b6cfe87944035c7
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 1
-        isLocked: 0
-        gitStatusEntry:
-          path: Temp\UnityTempFile-d46e1c0c52f936749b6cfe87944035c7
-          fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-d46e1c0c52f936749b6cfe87944035c7
-          projectPath: Temp\UnityTempFile-d46e1c0c52f936749b6cfe87944035c7
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
+      nodes: []
       selectedNode:
         path: 
         label: 
@@ -2744,201 +484,20 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-    gitStatusEntries:
-    - path: Assembly-CSharp.csproj
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assembly-CSharp.csproj
-      projectPath: Assembly-CSharp.csproj
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Assets\Level01.unity
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Level01.unity
-      projectPath: Assets\Level01.unity
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Assets\Obstacle Material.mat
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Obstacle
-        Material.mat
-      projectPath: Assets\Obstacle Material.mat
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\Player Material.mat
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Player Material.mat
-      projectPath: Assets\Player Material.mat
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\PlayerCollision.cs
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\PlayerCollision.cs
-      projectPath: Assets\PlayerCollision.cs
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Assets\PlayerMat.mat
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\PlayerMat.mat
-      projectPath: Assets\PlayerMat.mat
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 5
-    - path: Assets\PlayerMovement.cs
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\PlayerMovement.cs
-      projectPath: Assets\PlayerMovement.cs
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\ArtifactDB
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ArtifactDB
-      projectPath: Library\ArtifactDB
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\EditorInstance.json
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\EditorInstance.json
-      projectPath: Library\EditorInstance.json
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\gfu\cache\gitlocks.yaml
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gitlocks.yaml
-      projectPath: Library\gfu\cache\gitlocks.yaml
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\gfu\cache\gitstatusentries.yaml
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gitstatusentries.yaml
-      projectPath: Library\gfu\cache\gitstatusentries.yaml
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\gfu\cache\gittrackingstatus.yaml
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gittrackingstatus.yaml
-      projectPath: Library\gfu\cache\gittrackingstatus.yaml
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\gfu\cache\repoinfo.yaml
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\repoinfo.yaml
-      projectPath: Library\gfu\cache\repoinfo.yaml
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\InspectorExpandedItems.asset
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\InspectorExpandedItems.asset
-      projectPath: Library\InspectorExpandedItems.asset
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\Assembly-CSharp.dll
-      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\SourceAssetDB
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\SourceAssetDB
-      projectPath: Library\SourceAssetDB
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\StateCache\Hierarchy\2e0c0c-mainStage.json
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\Hierarchy\2e0c0c-mainStage.json
-      projectPath: Library\StateCache\Hierarchy\2e0c0c-mainStage.json
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\StateCache\SceneView\ca01b1-mainStage.json
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\SceneView\ca01b1-mainStage.json
-      projectPath: Library\StateCache\SceneView\ca01b1-mainStage.json
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: MyFirstGame.sln
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\MyFirstGame.sln
-      projectPath: MyFirstGame.sln
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 5
-    - path: ProjectSettings\TagManager.asset
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\ProjectSettings\TagManager.asset
-      projectPath: ProjectSettings\TagManager.asset
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Temp\__Backupscenes\0.backup
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\__Backupscenes\0.backup
-      projectPath: Temp\__Backupscenes\0.backup
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityLockfile
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityLockfile
-      projectPath: Temp\UnityLockfile
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-16058a307de856e46827d4366f8ae63c
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-16058a307de856e46827d4366f8ae63c
-      projectPath: Temp\UnityTempFile-16058a307de856e46827d4366f8ae63c
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-2e95701698df940488183f0640fbec48
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-2e95701698df940488183f0640fbec48
-      projectPath: Temp\UnityTempFile-2e95701698df940488183f0640fbec48
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-6834e0ae53e449344aca629a2bc71640
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-6834e0ae53e449344aca629a2bc71640
-      projectPath: Temp\UnityTempFile-6834e0ae53e449344aca629a2bc71640
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-a0c61c1d3e064c84db5875b88943cb67
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-a0c61c1d3e064c84db5875b88943cb67
-      projectPath: Temp\UnityTempFile-a0c61c1d3e064c84db5875b88943cb67
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-a9077f2ff05797444aab52ceba5f3f47
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-a9077f2ff05797444aab52ceba5f3f47
-      projectPath: Temp\UnityTempFile-a9077f2ff05797444aab52ceba5f3f47
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-b85710970cd218d4fbcb80f1d7d92cc9
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-b85710970cd218d4fbcb80f1d7d92cc9
-      projectPath: Temp\UnityTempFile-b85710970cd218d4fbcb80f1d7d92cc9
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-bd4ae1f9d7644a94a80ce84e8df28592
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-bd4ae1f9d7644a94a80ce84e8df28592
-      projectPath: Temp\UnityTempFile-bd4ae1f9d7644a94a80ce84e8df28592
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Temp\UnityTempFile-d46e1c0c52f936749b6cfe87944035c7
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-d46e1c0c52f936749b6cfe87944035c7
-      projectPath: Temp\UnityTempFile-d46e1c0c52f936749b6cfe87944035c7
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    changedFilesText: 30 changed files
+    gitStatusEntries: []
+    changedFilesText: No changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2020-04-22T00:15:59.046+03:00
-      cacheType: 1
+      updatedTimeString: 
+      cacheType: 0
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2020-04-22T00:53:04.976+03:00
-      cacheType: 6
+      updatedTimeString: 
+      cacheType: 0
     lastLocksChangedEvent:
-      updatedTimeString: 2020-04-22T00:51:49.607+03:00
-      cacheType: 7
+      updatedTimeString: 
+      cacheType: 0
   historyView:
-    currentLogHasUpdate: 0
-    currentTrackingStatusHasUpdate: 0
+    currentLogHasUpdate: 1
+    currentTrackingStatusHasUpdate: 1
     logEntries:
     - commitID: 37e39bee4b53b2cdae49dc8b129ac38508edd52f
       mergeA: 
@@ -9410,10 +6969,10 @@ MonoBehaviour:
         workTreeStatus: 0
     statusAhead: 0
     lastLogChangedEvent:
-      updatedTimeString: 2020-04-21T21:26:51.824+03:00
+      updatedTimeString: 2020-04-22T02:20:08.362+03:00
       cacheType: 3
     lastTrackingStatusChangedEvent:
-      updatedTimeString: 2020-04-21T21:25:53.333+03:00
+      updatedTimeString: 0001-01-01T00:00:00.000+00:00
       cacheType: 5
     historyControl:
       scroll: {x: 0, y: 0}
@@ -15989,60 +13548,18 @@ MonoBehaviour:
             email: 
           lockedAtString: 
         gitFileStatus: 0
-        lockedAt: 1 Jan 0001, 02:00
+        lockedAt: 
     lastCurrentRemoteChangedEvent:
-      updatedTimeString: 2020-04-21T21:25:51.536+03:00
-      cacheType: 1
+      updatedTimeString: 
+      cacheType: 0
     lastLocksChangedEvent:
-      updatedTimeString: 0001-01-01T00:00:00.000+00:00
-      cacheType: 7
+      updatedTimeString: 
+      cacheType: 0
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 0001-01-01T00:00:00.000+00:00
-      cacheType: 6
+      updatedTimeString: 
+      cacheType: 0
     lockedFiles: []
-    gitStatusEntries:
-    - path: Library\ArtifactDB
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ArtifactDB
-      projectPath: Library\ArtifactDB
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Library\EditorInstance.json
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\EditorInstance.json
-      projectPath: Library\EditorInstance.json
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\gfu\cache\gitlocks.yaml
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gitlocks.yaml
-      projectPath: Library\gfu\cache\gitlocks.yaml
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\gfu\cache\gitstatusentries.yaml
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gitstatusentries.yaml
-      projectPath: Library\gfu\cache\gitstatusentries.yaml
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\gfu\cache\repoinfo.yaml
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\repoinfo.yaml
-      projectPath: Library\gfu\cache\repoinfo.yaml
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    - path: Library\SourceAssetDB
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\SourceAssetDB
-      projectPath: Library\SourceAssetDB
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: Temp\UnityLockfile
-      fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityLockfile
-      projectPath: Temp\UnityLockfile
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
+    gitStatusEntries: []
     currentUsername: 
     unlockFileMenuContent:
       m_Text: Release Lock
@@ -16058,7 +13575,7 @@ MonoBehaviour:
   currentRemoteUrl: https://github.com/War3x/myFirstGameUnityLFS.git
   statusAhead: 0
   statusBehind: 0
-  hasItemsToCommit: 1
+  hasItemsToCommit: 0
   isTrackingRemoteBranch: 1
   currentBranchContent:
     m_Text: ToWorkOn
@@ -16069,13 +13586,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2020-04-21T23:33:51.416+03:00
-    cacheType: 1
+    updatedTimeString: 
+    cacheType: 0
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2020-04-21T21:37:19.183+03:00
+    updatedTimeString: 0001-01-01T00:00:00.000+00:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2020-04-22T00:06:53.801+03:00
+    updatedTimeString: 2020-04-22T02:16:22.317+03:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -16093,9 +13610,496 @@ MonoBehaviour:
     m_Text: Fetch
     m_Image: {fileID: 0}
     m_Tooltip: 
-  repositoryProgressValue: 0
-  repositoryProgressMessage: 
-  appManagerProgressValue: 1
-  appManagerProgressMessage: Initialized
+  repositoryProgressValue: 0.5
+  repositoryProgressMessage: Querying status...
+  appManagerProgressValue: 0
+  appManagerProgressMessage: 
   connections: []
   primaryConnectionUsername: 
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12079, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 390, y: 390}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Lighting
+    m_Image: {fileID: 8394858894532624064, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1777
+    y: 73
+    width: 782
+    height: 926
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1140
+    y: 73
+    width: 635
+    height: 635
+  m_ViewDataDictionary: {fileID: 0}
+  m_SerializedViewNames: []
+  m_SerializedViewValues: []
+  m_SerializedCustomFieldsNames: []
+  m_SerializedCustomFieldsValues: []
+  m_PlayModeViewName: GameView
+  m_ShowGizmos: 0
+  m_TargetDisplay: 0
+  m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+  m_TargetSize: {x: 635, y: 614}
+  m_TextureFilterMode: 0
+  m_TextureHideFlags: 61
+  m_RenderIMGUI: 1
+  m_MaximizeOnPlay: 0
+  m_VSyncEnabled: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -317.5
+    m_HBaseRangeMax: 317.5
+    m_VBaseRangeMin: -307
+    m_VBaseRangeMax: 307
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 1
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 21
+      width: 635
+      height: 614
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 317.5, y: 307}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -317.5
+      y: -307
+      width: 635
+      height: 614
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 635, y: 635}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000000000000
+  m_XRRenderMode: 0
+  m_RenderTexture: {fileID: 0}
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 73
+    width: 1139
+    height: 635
+  m_ViewDataDictionary: {fileID: 0}
+  m_ShowContextualTools: 0
+  m_WindowGUID: 49792c9d9a3055944a4701624e6d9683
+  m_Gizmos: 1
+  m_SceneIsLit: 0
+  m_SceneLighting: 1
+  m_2DMode: 1
+  m_isRotationLocked: 0
+  m_PlayAudio: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 151.52129, y: 286.31863, z: -109.375}
+    speed: 2
+    m_Value: {x: 151.52129, y: 286.31863, z: -109.375}
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_DoValidateTrueMetals: 0
+  m_ExposureSliderValue: 0
+  m_ExposureSliderMax: 10
+  m_SceneViewState:
+    showFog: 0
+    showMaterialUpdate: 0
+    showSkybox: 0
+    showFlares: 0
+    showImageEffects: 0
+    showParticleSystems: 0
+  m_Grid:
+    xGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 0
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 0, y: 0}
+    yGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 1
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    zGrid:
+      m_Fade:
+        m_Target: 1
+        speed: 2
+        m_Value: 1
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    m_ShowGrid: 1
+    m_GridAxis: 1
+    m_gridOpacity: 0.5
+  m_Rotation:
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
+  m_Size:
+    m_Target: 402.60938
+    speed: 2
+    m_Value: 402.60938
+  m_Ortho:
+    m_Target: 1
+    speed: 2
+    m_Value: 1
+  m_CameraSettings:
+    m_Speed: 1
+    m_SpeedNormalized: 0.5
+    m_SpeedMin: 0.01
+    m_SpeedMax: 2
+    m_EasingEnabled: 1
+    m_EasingDuration: 0.4
+    m_AccelerationEnabled: 1
+    m_FieldOfViewHorizontalOrVertical: 60
+    m_NearClip: 0.03
+    m_FarClip: 10000
+    m_DynamicClip: 1
+    m_OcclusionCulling: 0
+  m_LastSceneViewRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LastSceneViewOrtho: 1
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_SceneVisActive: 1
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &18
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -7501376956915960154, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 729
+    width: 1137
+    height: 270
+  m_ViewDataDictionary: {fileID: 0}
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_SceneHandles: 
+    m_ShowAllHits: 0
+    m_SkipHidden: 0
+    m_SearchArea: 1
+    m_Folders:
+    - Assets/Scripts
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Scripts
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 72340000
+    m_LastClickedID: 13426
+    m_ExpandedIDs: 000000005834000000ca9a3b
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 000000005834000000ca9a3b
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c623000000000000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 13}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 64
+  m_SkipHiddenPackages: 0
+  m_DirectoriesAreaWidth: 115
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1138
+    y: 729
+    width: 637
+    height: 270
+  m_ViewDataDictionary: {fileID: 0}
+  m_SceneHierarchy:
+    m_TreeViewState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 98320000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 84faffff70fbffff
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 12}
+      m_SearchString: 
+    m_ExpandedScenes: []
+    m_CurrenRootInstanceID: 0
+    m_LockTracker:
+      m_IsLocked: 0
+    m_CurrentSortingName: TransformSorting
+  m_WindowGUID: a9770cc56f8474e4db0938e1d8f6cd41
+--- !u!114 &20
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: 111653112392082826, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 569
+    y: 731
+    width: 317
+    height: 267
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &21
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -6905738622615590433, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 985
+    y: 81
+    width: 293
+    height: 917
+  m_ViewDataDictionary: {fileID: 0}
+  m_OpenAddComponentMenu: 0
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewResizer:
+    m_CachedPref: -160
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_PreviewWindow: {fileID: 0}
+  m_LastInspectedObjectInstanceID: -1
+  m_LastVerticalScrollValue: 0
