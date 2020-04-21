@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-04-21T21:55:50.887+03:00
-  initializedAtString: 2020-04-21T21:55:50.887+03:00
+  lastUpdatedAtString: 2020-04-21T22:44:39.800+03:00
+  initializedAtString: 2020-04-21T22:44:39.800+03:00
   currentGitRemote:
     name: origin
     url: https://github.com/War3x/myFirstGameUnityLFS.git
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: ToWorkOn
-    tracking: 
+    tracking: origin/ToWorkOn
   currentConfigBranch:
     name: ToWorkOn
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/War3x/myFirstGameUnityLFS.git
+    trackingBranch: ToWorkOn
   currentConfigRemote:
     name: origin
     url: https://github.com/War3x/myFirstGameUnityLFS.git
