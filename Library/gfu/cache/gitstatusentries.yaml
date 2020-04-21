@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-04-21T23:14:40.588+03:00
-  initializedAtString: 2020-04-21T22:44:41.774+03:00
+  lastUpdatedAtString: 2020-04-22T00:06:53.801+03:00
+  initializedAtString: 2020-04-21T23:33:53.341+03:00
   entries:
   - path: Assembly-CSharp.csproj
     fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assembly-CSharp.csproj
@@ -22,12 +22,36 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\CameraFollow.cs
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\CameraFollow.cs
-    projectPath: Assets\CameraFollow.cs
+  - path: Assets\Level01.unity
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Level01.unity
+    projectPath: Assets\Level01.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Obstacle Material.mat
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Obstacle Material.mat
+    projectPath: Assets\Obstacle Material.mat
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Assets\Player Material.mat
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Player Material.mat
+    projectPath: Assets\Player Material.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\PlayerCollision.cs
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\PlayerCollision.cs
+    projectPath: Assets\PlayerCollision.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\PlayerMat.mat
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\PlayerMat.mat
+    projectPath: Assets\PlayerMat.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\PlayerMovement.cs
     fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\PlayerMovement.cs
     projectPath: Assets\PlayerMovement.cs
@@ -70,6 +94,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -94,6 +124,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: MyFirstGame.sln
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\MyFirstGame.sln
+    projectPath: MyFirstGame.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Temp\__Backupscenes\0.backup
     fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
@@ -106,63 +148,51 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-0c3bcc47e9e5ec948b790e4486977ecb
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-0c3bcc47e9e5ec948b790e4486977ecb
-    projectPath: Temp\UnityTempFile-0c3bcc47e9e5ec948b790e4486977ecb
+  - path: Temp\UnityTempFile-16058a307de856e46827d4366f8ae63c
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-16058a307de856e46827d4366f8ae63c
+    projectPath: Temp\UnityTempFile-16058a307de856e46827d4366f8ae63c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-0d7a73908898901468076d48498b8245
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-0d7a73908898901468076d48498b8245
-    projectPath: Temp\UnityTempFile-0d7a73908898901468076d48498b8245
+  - path: Temp\UnityTempFile-2e95701698df940488183f0640fbec48
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-2e95701698df940488183f0640fbec48
+    projectPath: Temp\UnityTempFile-2e95701698df940488183f0640fbec48
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1efc83dbbbabef245a10a5b6483e3df8
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-1efc83dbbbabef245a10a5b6483e3df8
-    projectPath: Temp\UnityTempFile-1efc83dbbbabef245a10a5b6483e3df8
+  - path: Temp\UnityTempFile-6834e0ae53e449344aca629a2bc71640
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-6834e0ae53e449344aca629a2bc71640
+    projectPath: Temp\UnityTempFile-6834e0ae53e449344aca629a2bc71640
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-38f131dc640362b42bba024212ac78fc
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-38f131dc640362b42bba024212ac78fc
-    projectPath: Temp\UnityTempFile-38f131dc640362b42bba024212ac78fc
+  - path: Temp\UnityTempFile-a0c61c1d3e064c84db5875b88943cb67
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-a0c61c1d3e064c84db5875b88943cb67
+    projectPath: Temp\UnityTempFile-a0c61c1d3e064c84db5875b88943cb67
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-453b86dcf28f92b4994d1bf9c0b91a31
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-453b86dcf28f92b4994d1bf9c0b91a31
-    projectPath: Temp\UnityTempFile-453b86dcf28f92b4994d1bf9c0b91a31
+  - path: Temp\UnityTempFile-a9077f2ff05797444aab52ceba5f3f47
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-a9077f2ff05797444aab52ceba5f3f47
+    projectPath: Temp\UnityTempFile-a9077f2ff05797444aab52ceba5f3f47
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-55e7a280987d2f3439fbea49301b85d8
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-55e7a280987d2f3439fbea49301b85d8
-    projectPath: Temp\UnityTempFile-55e7a280987d2f3439fbea49301b85d8
+  - path: Temp\UnityTempFile-b85710970cd218d4fbcb80f1d7d92cc9
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-b85710970cd218d4fbcb80f1d7d92cc9
+    projectPath: Temp\UnityTempFile-b85710970cd218d4fbcb80f1d7d92cc9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-6c29e133916a1e843b4a0073017ff04d
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-6c29e133916a1e843b4a0073017ff04d
-    projectPath: Temp\UnityTempFile-6c29e133916a1e843b4a0073017ff04d
+  - path: Temp\UnityTempFile-bd4ae1f9d7644a94a80ce84e8df28592
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-bd4ae1f9d7644a94a80ce84e8df28592
+    projectPath: Temp\UnityTempFile-bd4ae1f9d7644a94a80ce84e8df28592
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-a7183a4b0a3b1a946a6f2b86e850ed0b
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-a7183a4b0a3b1a946a6f2b86e850ed0b
-    projectPath: Temp\UnityTempFile-a7183a4b0a3b1a946a6f2b86e850ed0b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e9cd072efe655bb43aafcd0c1c0d6aaf
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-e9cd072efe655bb43aafcd0c1c0d6aaf
-    projectPath: Temp\UnityTempFile-e9cd072efe655bb43aafcd0c1c0d6aaf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f1eb203b92e95004a82fb68de3336a20
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-f1eb203b92e95004a82fb68de3336a20
-    projectPath: Temp\UnityTempFile-f1eb203b92e95004a82fb68de3336a20
+  - path: Temp\UnityTempFile-d46e1c0c52f936749b6cfe87944035c7
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-d46e1c0c52f936749b6cfe87944035c7
+    projectPath: Temp\UnityTempFile-d46e1c0c52f936749b6cfe87944035c7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
