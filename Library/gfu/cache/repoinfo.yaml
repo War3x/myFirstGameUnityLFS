@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-04-21T23:33:51.416+03:00
-  initializedAtString: 2020-04-21T23:33:51.416+03:00
+  lastUpdatedAtString: 2020-04-22T00:15:59.046+03:00
+  initializedAtString: 2020-04-22T00:15:59.046+03:00
   currentGitRemote:
     name: origin
     url: https://github.com/War3x/myFirstGameUnityLFS.git
