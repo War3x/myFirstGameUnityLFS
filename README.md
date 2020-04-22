@@ -11,4 +11,4 @@ I personally think that this a good beggining for being in the Game Development 
 
 I have now a bigger perspective upon how games are developed and how Graphics, Movement, Rendering, all that stuff, works... Next projects will definetly consist in bigger game projects, and get the C# sharp coding down.
 
-++ Unity is quite easy to use, and it has a quite simplistic GUI, and that allows you to manipulate components, scripts, perpective, objects within the game, etc, veri easily.
+++ Unity is quite easy to use, and it has a quite simplistic GUI, and that allows you to manipulate components, scripts, perspective, objects within the game, etc, very easily.
