@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-04-22T02:20:50.893+03:00
-  initializedAtString: 2020-04-22T01:28:24.422+03:00
+  lastUpdatedAtString: 2020-04-22T13:35:53.845+03:00
+  initializedAtString: 2020-04-22T12:40:28.894+03:00
   entries:
   - path: Assembly-CSharp.csproj
     fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assembly-CSharp.csproj
@@ -22,75 +22,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Fonts\Roboto-Black.ttf
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Fonts\Roboto-Black.ttf
-    projectPath: Assets\Fonts\Roboto-Black.ttf
+  - path: Assets\Animations\LevelComplete.anim
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Animations\LevelComplete.anim
+    projectPath: Assets\Animations\LevelComplete.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Fonts\Roboto-BlackItalic.ttf
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Fonts\Roboto-BlackItalic.ttf
-    projectPath: Assets\Fonts\Roboto-BlackItalic.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Fonts\Roboto-Bold.ttf
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Fonts\Roboto-Bold.ttf
-    projectPath: Assets\Fonts\Roboto-Bold.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Fonts\Roboto-BoldItalic.ttf
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Fonts\Roboto-BoldItalic.ttf
-    projectPath: Assets\Fonts\Roboto-BoldItalic.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Fonts\Roboto-Italic.ttf
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Fonts\Roboto-Italic.ttf
-    projectPath: Assets\Fonts\Roboto-Italic.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Fonts\Roboto-Light.ttf
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Fonts\Roboto-Light.ttf
-    projectPath: Assets\Fonts\Roboto-Light.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Fonts\Roboto-LightItalic.ttf
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Fonts\Roboto-LightItalic.ttf
-    projectPath: Assets\Fonts\Roboto-LightItalic.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Fonts\Roboto-Medium.ttf
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Fonts\Roboto-Medium.ttf
-    projectPath: Assets\Fonts\Roboto-Medium.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Fonts\Roboto-MediumItalic.ttf
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Fonts\Roboto-MediumItalic.ttf
-    projectPath: Assets\Fonts\Roboto-MediumItalic.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Fonts\Roboto-Regular.ttf
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Fonts\Roboto-Regular.ttf
-    projectPath: Assets\Fonts\Roboto-Regular.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Fonts\Roboto-Thin.ttf
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Fonts\Roboto-Thin.ttf
-    projectPath: Assets\Fonts\Roboto-Thin.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Fonts\Roboto-ThinItalic.ttf
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Fonts\Roboto-ThinItalic.ttf
-    projectPath: Assets\Fonts\Roboto-ThinItalic.ttf
+  - path: Assets\Animations\LevelComplete.controller
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Animations\LevelComplete.controller
+    projectPath: Assets\Animations\LevelComplete.controller
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -100,27 +40,22 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Level01\LightingData.asset
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Level01\LightingData.asset
-    projectPath: Assets\Level01\LightingData.asset
+  - path: Assets\Level02.unity
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Level02.unity
+    projectPath: Assets\Level02.unity
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Level01\ReflectionProbe-0.exr
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Level01\ReflectionProbe-0.exr
-    projectPath: Assets\Level01\ReflectionProbe-0.exr
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Obstacle.prefab
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Obstacle.prefab
-    projectPath: Assets\Obstacle.prefab
+  - path: Assets\Materials\Player Material.mat
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Materials\Player
+      Material.mat
+    projectPath: Assets\Materials\Player Material.mat
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Player.prefab
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Player.prefab
-    projectPath: Assets\Player.prefab
+  - path: Assets\Scripts\EndTrigger.cs
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Scripts\EndTrigger.cs
+    projectPath: Assets\Scripts\EndTrigger.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -128,35 +63,17 @@ MonoBehaviour:
     fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Scripts\GameManager.cs
     projectPath: Assets\Scripts\GameManager.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\PlayerCollision.cs
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Scripts\PlayerCollision.cs
-    projectPath: Assets\Scripts\PlayerCollision.cs
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\PlayerMovement.cs
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Scripts\PlayerMovement.cs
-    projectPath: Assets\Scripts\PlayerMovement.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Score.cs
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Scripts\Score.cs
-    projectPath: Assets\Scripts\Score.cs
+  - path: Assets\Scripts\LevelComplete.cs
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Assets\Scripts\LevelComplete.cs
+    projectPath: Assets\Scripts\LevelComplete.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ArtifactDB
     projectPath: Library\ArtifactDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -172,18 +89,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\EditorSnapSettings.asset
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\EditorSnapSettings.asset
-    projectPath: Library\EditorSnapSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\EditorUserBuildSettings.asset
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\EditorUserBuildSettings.asset
-    projectPath: Library\EditorUserBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
@@ -208,15 +113,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\gituser.yaml
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -226,351 +131,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\0\00c264ee41a87aff7a0ac0471ddda1f9.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\0\00c264ee41a87aff7a0ac0471ddda1f9.bin
-    projectPath: Library\ShaderCache\0\00c264ee41a87aff7a0ac0471ddda1f9.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\010db0cc7b152c0e9a5a47787b26dea5.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\0\010db0cc7b152c0e9a5a47787b26dea5.bin
-    projectPath: Library\ShaderCache\0\010db0cc7b152c0e9a5a47787b26dea5.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\02d51130d6c603f1cdaf826cc6bf222b.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\0\02d51130d6c603f1cdaf826cc6bf222b.bin
-    projectPath: Library\ShaderCache\0\02d51130d6c603f1cdaf826cc6bf222b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\05dd41cd0b6d767209f8faeb7fb457f8.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\0\05dd41cd0b6d767209f8faeb7fb457f8.bin
-    projectPath: Library\ShaderCache\0\05dd41cd0b6d767209f8faeb7fb457f8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\0ce7a26a6407d2738a0416044f4c9f2c.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\0\0ce7a26a6407d2738a0416044f4c9f2c.bin
-    projectPath: Library\ShaderCache\0\0ce7a26a6407d2738a0416044f4c9f2c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\1\19f51c598562800447a89ef6d97e5a4e.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\1\19f51c598562800447a89ef6d97e5a4e.bin
-    projectPath: Library\ShaderCache\1\19f51c598562800447a89ef6d97e5a4e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\210efe345186964f69259f9cbcc0ba5e.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\2\210efe345186964f69259f9cbcc0ba5e.bin
-    projectPath: Library\ShaderCache\2\210efe345186964f69259f9cbcc0ba5e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\214ae7bfd7890bb905bdecbc00245895.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\2\214ae7bfd7890bb905bdecbc00245895.bin
-    projectPath: Library\ShaderCache\2\214ae7bfd7890bb905bdecbc00245895.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\2dc780b8e9c14f3c94b6474a8b181a4d.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\2\2dc780b8e9c14f3c94b6474a8b181a4d.bin
-    projectPath: Library\ShaderCache\2\2dc780b8e9c14f3c94b6474a8b181a4d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\3\300c309b8445fd1dd746ca5e9531360b.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\3\300c309b8445fd1dd746ca5e9531360b.bin
-    projectPath: Library\ShaderCache\3\300c309b8445fd1dd746ca5e9531360b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\3\30b0101ee055f2918ada1aaeb4198d60.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\3\30b0101ee055f2918ada1aaeb4198d60.bin
-    projectPath: Library\ShaderCache\3\30b0101ee055f2918ada1aaeb4198d60.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\3\3579eb2b645b41778f5a688903cf132f.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\3\3579eb2b645b41778f5a688903cf132f.bin
-    projectPath: Library\ShaderCache\3\3579eb2b645b41778f5a688903cf132f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\3\373c3512d89a60cb72c92e1ff6b1de97.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\3\373c3512d89a60cb72c92e1ff6b1de97.bin
-    projectPath: Library\ShaderCache\3\373c3512d89a60cb72c92e1ff6b1de97.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\4\4f56eb6454b59761e082271a3fa2dd12.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\4\4f56eb6454b59761e082271a3fa2dd12.bin
-    projectPath: Library\ShaderCache\4\4f56eb6454b59761e082271a3fa2dd12.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\523d1bf41e23e43224a4b572d1964e31.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\5\523d1bf41e23e43224a4b572d1964e31.bin
-    projectPath: Library\ShaderCache\5\523d1bf41e23e43224a4b572d1964e31.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\52e8be40127b32e85b53ff5f72c0e4f8.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\5\52e8be40127b32e85b53ff5f72c0e4f8.bin
-    projectPath: Library\ShaderCache\5\52e8be40127b32e85b53ff5f72c0e4f8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\5367efb286f1bfa9dde72ce3dd337ca8.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\5\5367efb286f1bfa9dde72ce3dd337ca8.bin
-    projectPath: Library\ShaderCache\5\5367efb286f1bfa9dde72ce3dd337ca8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\5375141051ce82c3dad5767d85abbd47.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\5\5375141051ce82c3dad5767d85abbd47.bin
-    projectPath: Library\ShaderCache\5\5375141051ce82c3dad5767d85abbd47.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\59fddc2a9cfc59eb11092d16a5012ec3.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\5\59fddc2a9cfc59eb11092d16a5012ec3.bin
-    projectPath: Library\ShaderCache\5\59fddc2a9cfc59eb11092d16a5012ec3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\5d5b5769dea7204f3fc17d9b9512d791.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\5\5d5b5769dea7204f3fc17d9b9512d791.bin
-    projectPath: Library\ShaderCache\5\5d5b5769dea7204f3fc17d9b9512d791.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\6\61960837569ed1b390a948b6f944a2da.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\6\61960837569ed1b390a948b6f944a2da.bin
-    projectPath: Library\ShaderCache\6\61960837569ed1b390a948b6f944a2da.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\6\655679cd46820c7c8c0d9b0fb2586c71.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\6\655679cd46820c7c8c0d9b0fb2586c71.bin
-    projectPath: Library\ShaderCache\6\655679cd46820c7c8c0d9b0fb2586c71.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\6\67fb3cec06e686e43d2f18f8f07dbfa2.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\6\67fb3cec06e686e43d2f18f8f07dbfa2.bin
-    projectPath: Library\ShaderCache\6\67fb3cec06e686e43d2f18f8f07dbfa2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\6\6a770a51c117c049d11bd8cbc14b757c.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\6\6a770a51c117c049d11bd8cbc14b757c.bin
-    projectPath: Library\ShaderCache\6\6a770a51c117c049d11bd8cbc14b757c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\6\6e9f47a30da506b910434624f16414f3.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\6\6e9f47a30da506b910434624f16414f3.bin
-    projectPath: Library\ShaderCache\6\6e9f47a30da506b910434624f16414f3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\7\74d4a1b3d64c35d0f9b0188153616a6d.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\7\74d4a1b3d64c35d0f9b0188153616a6d.bin
-    projectPath: Library\ShaderCache\7\74d4a1b3d64c35d0f9b0188153616a6d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\7\7c3a1c326912397202f711e697fdc6de.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\7\7c3a1c326912397202f711e697fdc6de.bin
-    projectPath: Library\ShaderCache\7\7c3a1c326912397202f711e697fdc6de.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\8\80a194db4b7441f2beca85e7b316c794.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\8\80a194db4b7441f2beca85e7b316c794.bin
-    projectPath: Library\ShaderCache\8\80a194db4b7441f2beca85e7b316c794.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\9114396e5ac3f3b08e7890e8a4c13fd4.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\9\9114396e5ac3f3b08e7890e8a4c13fd4.bin
-    projectPath: Library\ShaderCache\9\9114396e5ac3f3b08e7890e8a4c13fd4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\9297a366de653d5171fdee9f513973eb.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\9\9297a366de653d5171fdee9f513973eb.bin
-    projectPath: Library\ShaderCache\9\9297a366de653d5171fdee9f513973eb.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\98b2bacc6c50d4116901f9739e6beb95.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\9\98b2bacc6c50d4116901f9739e6beb95.bin
-    projectPath: Library\ShaderCache\9\98b2bacc6c50d4116901f9739e6beb95.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\9b2bbaf91db6691ca2551bd14f930c53.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\9\9b2bbaf91db6691ca2551bd14f930c53.bin
-    projectPath: Library\ShaderCache\9\9b2bbaf91db6691ca2551bd14f930c53.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\9c8a36ae3f6ee524d2d4fd04b0978aab.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\9\9c8a36ae3f6ee524d2d4fd04b0978aab.bin
-    projectPath: Library\ShaderCache\9\9c8a36ae3f6ee524d2d4fd04b0978aab.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\9de1748e38ef381b4735a3180b6c846b.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\9\9de1748e38ef381b4735a3180b6c846b.bin
-    projectPath: Library\ShaderCache\9\9de1748e38ef381b4735a3180b6c846b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\a\a240cc45303ef90d60d772f92a55a777.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\a\a240cc45303ef90d60d772f92a55a777.bin
-    projectPath: Library\ShaderCache\a\a240cc45303ef90d60d772f92a55a777.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\a\abfe3971411171cbbed5c4d1e947df47.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\a\abfe3971411171cbbed5c4d1e947df47.bin
-    projectPath: Library\ShaderCache\a\abfe3971411171cbbed5c4d1e947df47.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\b331aba05a8221ce4e4fe95c86785f8f.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\b\b331aba05a8221ce4e4fe95c86785f8f.bin
-    projectPath: Library\ShaderCache\b\b331aba05a8221ce4e4fe95c86785f8f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\bab3281be6b3469cc6ac3fd9477aef94.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\b\bab3281be6b3469cc6ac3fd9477aef94.bin
-    projectPath: Library\ShaderCache\b\bab3281be6b3469cc6ac3fd9477aef94.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\bac773ac56039147b729b572a03fea44.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\b\bac773ac56039147b729b572a03fea44.bin
-    projectPath: Library\ShaderCache\b\bac773ac56039147b729b572a03fea44.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\bdd9ebec73068172bd3d7a9c1a133dbd.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\b\bdd9ebec73068172bd3d7a9c1a133dbd.bin
-    projectPath: Library\ShaderCache\b\bdd9ebec73068172bd3d7a9c1a133dbd.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\be07be4194e71500aa15e87c3f17e589.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\b\be07be4194e71500aa15e87c3f17e589.bin
-    projectPath: Library\ShaderCache\b\be07be4194e71500aa15e87c3f17e589.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\c\c62687c56b032e6be702f0934d892215.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\c\c62687c56b032e6be702f0934d892215.bin
-    projectPath: Library\ShaderCache\c\c62687c56b032e6be702f0934d892215.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\c\c966bcb573a0f981fca29b555279822e.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\c\c966bcb573a0f981fca29b555279822e.bin
-    projectPath: Library\ShaderCache\c\c966bcb573a0f981fca29b555279822e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\c\ccf8c66f7fb84e5ad781851282a6a255.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\c\ccf8c66f7fb84e5ad781851282a6a255.bin
-    projectPath: Library\ShaderCache\c\ccf8c66f7fb84e5ad781851282a6a255.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\d\d6a89e435717a40962e36f0dca35751f.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\d\d6a89e435717a40962e36f0dca35751f.bin
-    projectPath: Library\ShaderCache\d\d6a89e435717a40962e36f0dca35751f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\d\db0469f6a9d96d9be6d75efd0bb87d15.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\d\db0469f6a9d96d9be6d75efd0bb87d15.bin
-    projectPath: Library\ShaderCache\d\db0469f6a9d96d9be6d75efd0bb87d15.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\e\e3ca654b2f4a5069a58096e0c0a3e4ae.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\e\e3ca654b2f4a5069a58096e0c0a3e4ae.bin
-    projectPath: Library\ShaderCache\e\e3ca654b2f4a5069a58096e0c0a3e4ae.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\e\ed30f647657a352bc9f82b00293b4365.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\e\ed30f647657a352bc9f82b00293b4365.bin
-    projectPath: Library\ShaderCache\e\ed30f647657a352bc9f82b00293b4365.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache\f\f1a86b956556152e6271a622e08bdebf.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\f\f1a86b956556152e6271a622e08bdebf.bin
-    projectPath: Library\ShaderCache\f\f1a86b956556152e6271a622e08bdebf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\f\f2c423a115636246c48c53afb554468a.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\f\f2c423a115636246c48c53afb554468a.bin
-    projectPath: Library\ShaderCache\f\f2c423a115636246c48c53afb554468a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\f\f314a99b4bc50a60c4a9943abbf3a71f.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\f\f314a99b4bc50a60c4a9943abbf3a71f.bin
-    projectPath: Library\ShaderCache\f\f314a99b4bc50a60c4a9943abbf3a71f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\f\fbb75bf923cdde8ab4cd60db9947a969.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\f\fbb75bf923cdde8ab4cd60db9947a969.bin
-    projectPath: Library\ShaderCache\f\fbb75bf923cdde8ab4cd60db9947a969.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\f\fd65ca25243cec14f71b196bf55adfa8.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\f\fd65ca25243cec14f71b196bf55adfa8.bin
-    projectPath: Library\ShaderCache\f\fd65ca25243cec14f71b196bf55adfa8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\f\ffd49e99fc7169ed0295120ee5e08e33.bin
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\ShaderCache\f\ffd49e99fc7169ed0295120ee5e08e33.bin
-    projectPath: Library\ShaderCache\f\ffd49e99fc7169ed0295120ee5e08e33.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\SourceAssetDB
     fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\2e0c0c-mainStage.json
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\Hierarchy\2e0c0c-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\2e0c0c-mainStage.json
+  - path: Library\StateCache\Hierarchy\68751e-mainStage.json
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\Hierarchy\68751e-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\68751e-mainStage.json
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\6b5228-mainStage.json
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\Hierarchy\6b5228-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\6b5228-mainStage.json
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\Hierarchy\a1bbc7-mainStage.json
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\Hierarchy\a1bbc7-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\a1bbc7-mainStage.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -578,23 +153,23 @@ MonoBehaviour:
     fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\Hierarchy\a9770c-mainStage.json
     projectPath: Library\StateCache\Hierarchy\a9770c-mainStage.json
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\317528-mainStage.json
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\SceneView\317528-mainStage.json
+    projectPath: Library\StateCache\SceneView\317528-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\SceneView\3dff94-mainStage.json
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\SceneView\3dff94-mainStage.json
+    projectPath: Library\StateCache\SceneView\3dff94-mainStage.json
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library\StateCache\SceneView\49792c-mainStage.json
     fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\SceneView\49792c-mainStage.json
     projectPath: Library\StateCache\SceneView\49792c-mainStage.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\84e0b1-mainStage.json
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\SceneView\84e0b1-mainStage.json
-    projectPath: Library\StateCache\SceneView\84e0b1-mainStage.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\ca01b1-mainStage.json
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Library\StateCache\SceneView\ca01b1-mainStage.json
-    projectPath: Library\StateCache\SceneView\ca01b1-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -610,117 +185,69 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\ProcessJobs\10d3d710d51ba415b0b8faecd664cbda.bakert
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\ProcessJobs\10d3d710d51ba415b0b8faecd664cbda.bakert
-    projectPath: Temp\ProcessJobs\10d3d710d51ba415b0b8faecd664cbda.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\54abaca9ec93c9ae7853b796c7d8c588.bakert
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\ProcessJobs\54abaca9ec93c9ae7853b796c7d8c588.bakert
-    projectPath: Temp\ProcessJobs\54abaca9ec93c9ae7853b796c7d8c588.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Temp\UnityLockfile
     fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-118ccb1df46c199498e47a8b82041ebb
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-118ccb1df46c199498e47a8b82041ebb
-    projectPath: Temp\UnityTempFile-118ccb1df46c199498e47a8b82041ebb
+  - path: Temp\UnityTempFile-4161110eabc803b4993108871425ae20
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-4161110eabc803b4993108871425ae20
+    projectPath: Temp\UnityTempFile-4161110eabc803b4993108871425ae20
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1b97b1585d6e4ed4c86b910861febdc8
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-1b97b1585d6e4ed4c86b910861febdc8
-    projectPath: Temp\UnityTempFile-1b97b1585d6e4ed4c86b910861febdc8
+  - path: Temp\UnityTempFile-44309f3743a33844d900bdcbc2d87956
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-44309f3743a33844d900bdcbc2d87956
+    projectPath: Temp\UnityTempFile-44309f3743a33844d900bdcbc2d87956
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-4445ea4a977199d42b7acc897b17c3f1
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-4445ea4a977199d42b7acc897b17c3f1
-    projectPath: Temp\UnityTempFile-4445ea4a977199d42b7acc897b17c3f1
+  - path: Temp\UnityTempFile-6502600d46d67744f811d7ab87c2afa1
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-6502600d46d67744f811d7ab87c2afa1
+    projectPath: Temp\UnityTempFile-6502600d46d67744f811d7ab87c2afa1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-5c0a9f702a5a054429e13f2264508a31
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-5c0a9f702a5a054429e13f2264508a31
-    projectPath: Temp\UnityTempFile-5c0a9f702a5a054429e13f2264508a31
+  - path: Temp\UnityTempFile-9411fd6d9d203714295bdbd236a37df8
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-9411fd6d9d203714295bdbd236a37df8
+    projectPath: Temp\UnityTempFile-9411fd6d9d203714295bdbd236a37df8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-6285d1e3e93b6a147bb58800ab73884e
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-6285d1e3e93b6a147bb58800ab73884e
-    projectPath: Temp\UnityTempFile-6285d1e3e93b6a147bb58800ab73884e
+  - path: Temp\UnityTempFile-a3bf7473a5fc6074683a6b4e3cb207aa
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-a3bf7473a5fc6074683a6b4e3cb207aa
+    projectPath: Temp\UnityTempFile-a3bf7473a5fc6074683a6b4e3cb207aa
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-92d085fdede897d4aa737279a26e0579
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-92d085fdede897d4aa737279a26e0579
-    projectPath: Temp\UnityTempFile-92d085fdede897d4aa737279a26e0579
+  - path: Temp\UnityTempFile-a476e97adf58c9e4cafb5434481f7737
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-a476e97adf58c9e4cafb5434481f7737
+    projectPath: Temp\UnityTempFile-a476e97adf58c9e4cafb5434481f7737
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-98bfed63fc4afcc44880f5d275073471
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-98bfed63fc4afcc44880f5d275073471
-    projectPath: Temp\UnityTempFile-98bfed63fc4afcc44880f5d275073471
+  - path: Temp\UnityTempFile-c39e7b12e55245b4d9471bf16aad1ea7
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-c39e7b12e55245b4d9471bf16aad1ea7
+    projectPath: Temp\UnityTempFile-c39e7b12e55245b4d9471bf16aad1ea7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-9f94b4dafd7da674a82dc7c9554e2520
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-9f94b4dafd7da674a82dc7c9554e2520
-    projectPath: Temp\UnityTempFile-9f94b4dafd7da674a82dc7c9554e2520
+  - path: Temp\UnityTempFile-cc0f2eb9bcbc4de4f873ecbaba56c661
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-cc0f2eb9bcbc4de4f873ecbaba56c661
+    projectPath: Temp\UnityTempFile-cc0f2eb9bcbc4de4f873ecbaba56c661
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b22fb8c96ed65694b8f2d62e42b256f2
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-b22fb8c96ed65694b8f2d62e42b256f2
-    projectPath: Temp\UnityTempFile-b22fb8c96ed65694b8f2d62e42b256f2
+  - path: Temp\UnityTempFile-cd3f6f6fea31da74bb14db581e19fa17
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-cd3f6f6fea31da74bb14db581e19fa17
+    projectPath: Temp\UnityTempFile-cd3f6f6fea31da74bb14db581e19fa17
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-c5ce96980af983745aea773353c71ba4
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-c5ce96980af983745aea773353c71ba4
-    projectPath: Temp\UnityTempFile-c5ce96980af983745aea773353c71ba4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d462f886933c1a34d8e9f345b977bb01
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-d462f886933c1a34d8e9f345b977bb01
-    projectPath: Temp\UnityTempFile-d462f886933c1a34d8e9f345b977bb01
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-de7a600269c5ee840b738af9ec8776f1
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-de7a600269c5ee840b738af9ec8776f1
-    projectPath: Temp\UnityTempFile-de7a600269c5ee840b738af9ec8776f1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e0d30ae8ae046ea4d835be6408807383
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-e0d30ae8ae046ea4d835be6408807383
-    projectPath: Temp\UnityTempFile-e0d30ae8ae046ea4d835be6408807383
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e230a42492c935e41b13abc137b0db71
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-e230a42492c935e41b13abc137b0db71
-    projectPath: Temp\UnityTempFile-e230a42492c935e41b13abc137b0db71
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-fc711a2a68f23e147b8f66538eb6e812
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-fc711a2a68f23e147b8f66538eb6e812
-    projectPath: Temp\UnityTempFile-fc711a2a68f23e147b8f66538eb6e812
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-fe4f4f25881d40948a932a16d029948d
-    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-fe4f4f25881d40948a932a16d029948d
-    projectPath: Temp\UnityTempFile-fe4f4f25881d40948a932a16d029948d
+  - path: Temp\UnityTempFile-df03e6640ef6395459c3a5d4a2238a90
+    fullPath: C:\Users\Ovi\Documents\GitHub\myFirstGameUnityLFS\Temp\UnityTempFile-df03e6640ef6395459c3a5d4a2238a90
+    projectPath: Temp\UnityTempFile-df03e6640ef6395459c3a5d4a2238a90
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
